@@ -1,3 +1,4 @@
 - 👋 Hola y bienvenido a mi perfil!
 - 🌱 Actualmente me encuentro aprendiendo React, TypeScritp y NodeJS 
-
+- Actualmente me encuentro estudiando en la Universidad Nacional de General Sarmiento la carrera de licenciatura en sistemas y Tecnicatura en Informatica.
+- Tengo conocimiento en Python, Go, Java, JavaScript, C#, css y HTML
