@@ -28,6 +28,6 @@ https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 - **Jest**: Testing
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical)
-
+![Contribuciones del Año](https://github-readme-stats.vercel.app/api?username=pacolu13&count_private=true&show_icons=true&hide_title=false&theme=radical)
 
 
