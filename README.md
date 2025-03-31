@@ -1,4 +1,5 @@
-- 👋 Hola y bienvenido a mi perfil!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hola+y+bienvenido+a+mi+perfil!&color=FF00FF)](https://git.io/typing-svg)
+
 - 🌱 Actualmente me encuentro aprendiendo React, TypeScritp y NodeJS 
 - Actualmente me encuentro estudiando en la Universidad Nacional de General Sarmiento la carrera de licenciatura en sistemas y Tecnicatura en Informatica.
 - Tengo conocimiento en Python, Go, Java, JavaScript, C#, css y HTML
