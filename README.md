@@ -23,3 +23,6 @@
 - **PostgreSQL**: Base de datos
 - **Jest**: Testing
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+
