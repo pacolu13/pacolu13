@@ -3,6 +3,9 @@
 - 🌱 Actualmente me encuentro aprendiendo React, TypeScritp y NodeJS 
 - Actualmente me encuentro estudiando en la Universidad Nacional de General Sarmiento la carrera de licenciatura en sistemas y Tecnicatura en Informatica.
 - Tengo conocimiento en Python, Go, Java, JavaScript, C#, css y HTML
+
+  ![Profile views](https://komarev.com/ghpvc/?username=tuusuario)
+
 # Lenguajes de Programación
 
 ![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go)
@@ -16,13 +19,15 @@
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
 ![COBOL](https://img.shields.io/badge/COBOL-blue?style=flat&logo=cobol)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+![Git](
+https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 
 ## Tecnologías
 - **Express**: Framework para Node.js
 - **PostgreSQL**: Base de datos
 - **Jest**: Testing
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical)
+
 
 
