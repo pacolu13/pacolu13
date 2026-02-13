@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hola,+soy+Velazquez Luca!;Estudiante+de+Sistemas+en+UNGS;Backend+Developer+Java+&color=FF00FF&center=true&width=500)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hola,+soy+Velazquez_Luca!;Estudiante+de+Sistemas+en+UNGS;Backend+Developer+Java+&color=FF00FF&center=true&width=500)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=purple&style=flat-square)
 
